@@ -1,0 +1,17 @@
+SPM LAB1
+mkdir-create filename
+cd -filename
+ssh-keygen -t rsa
+cat finename.pub
+git init
+git clone -past github url link
+cd -repository name
+git status
+notepad.txt
+cd notepad.txt
+ls
+cat.notepad.txt
+git status
+git add notepad.txt
+git commit -m  "Version 1.2"
+git push
