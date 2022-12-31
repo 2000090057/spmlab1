@@ -1,0 +1,4 @@
+spm lab-2 
+git branch
+git diff
+git merge
